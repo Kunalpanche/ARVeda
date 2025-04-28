@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/757e8cc4-4a1c-4428-ba3e-f217c7a96fb0
 # ARVeda: Revolutionizing Herbal Education with AI & AR
 
 ## **Overview**
@@ -9,7 +7,9 @@ ARVeda brings Ayurveda into the modern world using AI and AR. The app offers an 
 
 ## **Watch the Demo Video**
 
-Uploading ARVeda-Demo.mp4..
+https://github.com/user-attachments/assets/94c53a49-eadc-44d9-b8e6-2bb4f758d361
+
+
 
 ---
 
